@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall letters containing a message from the States Provinciall of Holland, sent by an ambassador to the Parliament of England, and the effect thereof. Also, the beheading of Montrosse, and the hanging of a bishop, with other intelligence from Scotland and Ireland. Together, with the discovery of a plot in the west, for betraying of Pendennice Castle: the forces in the isle of Jersey, and the isle of Silly, and the condition of Prince Rupert at sea.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92977</idno><idno type="EEBO-CITATION">99865575</idno>
+  <idno type="VID">165634</idno>
+  <idno type="EEBO-PROQUEST">2240924262</idno>
+  
+            <idno type="STC">Wing S2770</idno>
+            <idno type="STC">Thomason E602_9</idno>
+            <idno type="STC">ESTC R206413</idno>
+            <idno type="PROQUEST">99865575</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865575e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165634)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E602[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall letters containing a message from the States Provinciall of Holland, sent by an ambassador to the Parliament of England, and the effect thereof. Also, the beheading of Montrosse, and the hanging of a bishop, with other intelligence from Scotland and Ireland. Together, with the discovery of a plot in the west, for betraying of Pendennice Castle: the forces in the isle of Jersey, and the isle of Silly, and the condition of Prince Rupert at sea.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. And are to be sold at the Royall-Exchange, and in the Old-Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Montrose, James Graham, --  Marquis of, 1612-1650 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165634:1"/>
+            <p>SEVERALL LETTERS CONTAINING A MESSAGE FROM THE States Provinciall OF HOLLAND, SENT By an Ambassador to the <hi>Parliament</hi> of ENGLAND, and the effect thereof.</p>
+            <p>ALSO, The beheading of MONTROSSE, and the hanging of a <hi>Bishop,</hi> with other Intelligence from SCOTLAND and IRELAND.</p>
+            <p>
+               <hi>TOGETHER,</hi> With the discovery of a Plot in the West, for betraying of <hi>Pendennice</hi> Castle: The Forces in the Isle of <hi>Jersey,</hi> and the Isle of <hi>Silly,</hi> and the Condition of Prince <hi>Rupert</hi> at Sea.</p>
+            <p>LONDON, <hi>Printed for</hi> J. C. <hi>And are to be sold at the</hi> Royall. Exchange, <hi>and in the</hi> Old-B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yley, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165634:2"/>
+            <pb facs="tcp:165634:2"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of a crowned English rose, a crowned French fleur de lis, and a crowned Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>A Letter from <hi>Newcastle,</hi> concerning the affaires in <hi>Scotland,</hi> the beheading of <hi>Montross,</hi> and Proclaming their <hi>King.</hi>
+            </head>
+            <opener>
+               <salute>RIR,</salute>
+            </opener>
+            <p>THe newes Bookes which you sent me with your Letters of the fift instant, challenge a return of what we have here: In my last (wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch I hope hath kissed your hand before this) I acqvainted you with the intelligence we had that MONTROSS was taken, and carried to EDEN<g ref="char:EOLhyphen"/>BURGH, where we further heare he was sode<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly sentenced, and his head sever<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d from his body, (a just reward for such an implacable Enemy but notwithstanding this, the common Bru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the People is, that they are in all things agreed with their declared King, only some are to be ratified in a Parliamentary way, and if this be so in the
+<pb n="2" facs="tcp:165634:3"/> generall, the particulars are kept with the like secrecy with them as at BREDA, by which it is more then conjecturable, that there is some stra<g ref="char:EOLhyphen"/>tagem to be concluded before it be discovered, it is also certifyed by some Letters, that they appoin<g ref="char:EOLhyphen"/>ted to Proclame CHARLES STUWARD (anew) to be their King the same day their Parliament sit, which is the beginning of this week, and prepara<g ref="char:EOLhyphen"/>tions goe forward at EDENBURGH as if they were sure of his comming thither, certainly they would scarce lay out much money except they were inhopes rather to get then maintain a costly Court, many of the Clergy after their zealous ex<g ref="char:EOLhyphen"/>pressions in publique to forwarn the Treaty now it is to late, they begin to have some tremblings because they perceive that it hath not broken the old Malignant party to a through reconciliation, and therefore having noe assurance or confidence in their love, they feare a Serpent may spring up fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m under the leafe.</p>
+            <p>Some passengers which came lately out of Hol<g ref="char:EOLhyphen"/>land, reports the SCOTS dec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ared King to be gone from thence, yet are not able to satisfie us whe<g ref="char:EOLhyphen"/>ther, as for the present of his going into Sweden, on an occasion long since spoken of, very littell
+<pb n="3" facs="tcp:165634:3"/> credit is to be given thereunto, for who can im<g ref="char:EOLhyphen"/>magine that so wise and potent a Queen should be<g ref="char:EOLhyphen"/>stow her beloved Daughter, on an unsettled Prince, whose eares are cheifly open to those Councels that destroyed his Father.</p>
+            <p>Sir. pray let me have the honour to hear from you by the Post, &amp; if I may not be found to exceed the bounds of modesty in my reqvest (which will be both charge and trouble,) the continuance of such Inteligence as is with you, will not onely pleasure your old friend, but in some measure be servisable to the Common-wealth wherein you live, by stopping the mouthes of such kind of men, which are oftentimes the Ministers of folsehood, bearing about them both Minds, and Tonges in<g ref="char:EOLhyphen"/>structed and armed against truth, and when we have least newse are apt to divulge most, having ac<g ref="char:EOLhyphen"/>customed themselves <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o invent and u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter that which is best pleasing to their owne fantasies though never so untrue; I remaine.</p>
+            <closer>
+               <signed>Your Humble Servant I P.</signed>
+               <dateline>NEWCASTLE <date>19. OF MAY, 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:165634:4"/>
+            <head>Another Letter of a Relation of a Message from the States Provinciall of <hi>Holland,</hi> to the <hi>Parliament</hi> of <hi>England,</hi> and a Design in the <hi>West,</hi>
+            </head>
+            <opener>
+               <salute>Noble SIR,</salute>
+            </opener>
+            <p>
+               <hi>ON</hi> Munday <hi>last arrived here a Gentleman of quality, which came from</hi> Amsterdam, <hi>and affirmeth unto us, that two dayes before his coming away, there was dispatcht from the States Provinciall, an</hi> Ambassador <hi>to the Parliament of</hi> Eng<g ref="char:EOLhyphen"/>land, (<hi>the first that we have heard of to come hither from any parts since we were a free State) his business (saith my Au<g ref="char:EOLhyphen"/>thor) is to negotiate in some affaires at Sea, and treat about the continuance of the ancient amity, League and friendship be<g ref="char:EOLhyphen"/>twixt the two Nations. And truly, he is commended <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or a per<g ref="char:EOLhyphen"/>son qualified with parts befitting such wai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y imployment. Pri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce</hi> Rupert <hi>remaines still at</hi> Li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>burne, <hi>not daring to adventure fortht, for feare of the Parliaments Fleet, which attend his com<g ref="char:EOLhyphen"/>ing out, and having layn there, and spent most part of his provi<g ref="char:EOLhyphen"/>sions: the</hi> Portingall <hi>will not trust him with any more without ready money, which is a great discontent to his Officers, and in time may breed much difference amongst them. Sir,</hi> J. Mince, <hi>and</hi> Pluncket <hi>not sticking already, to tell the Prince to his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace, that he will be the meanes to distroy all by Sea, as he did first by Land, some that come from St.</hi> Mallowes, <hi>report that divers Officers are lately come to</hi> J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey, <hi>which are capable of the old malignant stomp, of whom there is not much feare, in regard they want strength; and all things else (but wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s) that should put them into a capacity to invade, yet certainly there is some designe in the</hi> West, <hi>for that we heare many d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erate</hi> Irish Rebels <hi>and others, are in the Isle of</hi> Silly, <hi>which are in number thought more then are necessary for the keeping of that place onely; but of this doubtless the Parliament will have such a vigilant eye,
+<pb n="5" facs="tcp:165634:4"/> that the Plots of the adversary will come to naught, as that design lately was which they had laid for the betraying of</hi> Pendennice <hi>Castle, and some other strong holds in</hi> Cornwall.</p>
+            <closer>
+               <dateline>Yarmouth <date>21. May, 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from DUBLIN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BY <hi>the last Post, you heard how it pleased God to deliver into our hands, about two thousand of</hi> Castle-heavens <hi>forces, which mercy was the more wonderfull in our eyes, for that it was done without any losse on our side, or scarce the striking of a blowe but in the pursuit, so that an enemy which had boldness to raise and muster 6. or 7000. armed men, and after that courage, to attempt the laying of siege against</hi> Tredagh, <hi>at the very first sight of our men were struck with such a fear and amazement, that they fled through the Boggs into the Mountains to hide themselves. Just now <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewes is come hither that the strong Garison of</hi> Clu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nel <hi>is upon deliv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y up to his Excellency the Lord Gen:</hi> Crom<g ref="char:EOLhyphen"/>well, <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re remain some few places more to be taken in; for ac<g ref="char:EOLhyphen"/>complishment
+<pb n="6" facs="tcp:165634:5"/> whereof no time will be neglected, for it is a dangerous thing to let ship an oppertunity, and not to execute what is determined and resolved upon, especially where there is such large experience of Gods power<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esence going along with us.</hi> Inchiquin <hi>would gladly lay down Armes and go over Sea, and although it be honourable, and oftentimes profitable, to treat with those that are at Warre, yet what credit can be given to such revolters that have once betrayed their trust. A</hi> Ligi<g ref="char:EOLhyphen"/>nient <hi>of the</hi> Pope, <hi>called a</hi> Bishop, <hi>was hanged at one of the Gates of the Town, endeavouring to betray some of our forces in to the hands of the Enemy that were within.</hi>
+            </p>
+            <closer>
+               <dateline>Dublin <date>22. May, 1650.</date>
+               </dateline>
+               <signed>Yours to serve you, T. HICKS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
